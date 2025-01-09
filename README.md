@@ -13,7 +13,9 @@ Responsive Design: The application is optimized for both desktop and mobile devi
 # Technologies Used
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js, Express
+
 Database: MySQL
 
 # Installation Instructions
@@ -32,6 +34,9 @@ Database: MySQL
 
 # Usage
 
-Users can sign up or log in to access their calendar.
-Click on dates to add events or view existing ones.
-Use navigation buttons to switch between months.
+1] Users can sign up or log in to access their calendars.
+
+2] Click on dates to add events or view existing ones.
+
+3] Use navigation buttons to switch between months.
+
